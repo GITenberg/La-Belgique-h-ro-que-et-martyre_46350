@@ -1,0 +1,32 @@
+_repo: La-Belgique-h-ro-que-et-martyre_46350
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46350-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: FR La Première Guerre Mondiale, 1914-1918
+gutenberg_issued: '2014-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46350'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Belgium'
+- !lcsh 'World War, 1914-1918 -- Destruction and pillage -- Belgium'
+- !lcc 'D501'
+tableOfContents: 'Avant-propos / Armand Dayor -- Pour la Belgique / Maurice Maeterlinck
+  -- Parmi les cendres / Émile Verhaeren -- Liége / Maurice Wilmotte -- Villes et
+  villages sacagés par les vandales: Dinant, Malines, Termonde / L. Dumont-Wilden
+  -- Le crime de Louvain / P. Delannoy -- Ypres / Paul Lambotte -- Nieuport, Furnes,
+  Dixmude / Pierre Nothomb -- Lampernisse / Jean de Mot -- Les criminels au pilori.'
+title: La Belgique héroïque et martyre
+url: http://www.gutenberg.org/ebooks/46350
