@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46350#La-Belgique-h-ro-que-et-martyre
 gutenberg_bookshelf: FR La Première Guerre Mondiale, 1914-1918
 gutenberg_issued: '2014-07-21'
 gutenberg_type: Text
